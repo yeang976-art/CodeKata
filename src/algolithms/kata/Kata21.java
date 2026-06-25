@@ -1,4 +1,4 @@
-package algolithms.kata.num20to29;
+package algolithms.kata;
 
 public final class Kata21 {
     public boolean solution(int x) {
