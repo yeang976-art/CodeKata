@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/T260609.iml" filepath="$PROJECT_DIR$/T260609.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CodeKataRepository.iml" filepath="$PROJECT_DIR$/CodeKataRepository.iml" />
     </modules>
   </component>
 </project>
