@@ -7,7 +7,6 @@ public final class Kata31 {
             sb.append(i % 2 == 0 ? "박" : "수");
         }
         return sb.toString();
-        //return sb.chars().map(a -> sb.append(a % 2 == 0 ? "박" : "수")).;
     }
 
     static void main() {
