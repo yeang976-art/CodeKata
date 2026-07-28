@@ -1,8 +1,5 @@
 package algolithms.kata.num30to39;
 
-import java.util.ArrayList;
-import java.util.Comparator;
-import java.util.List;
 import java.util.stream.IntStream;
 
 // 부족한 금액 계산
