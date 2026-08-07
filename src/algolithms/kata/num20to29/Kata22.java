@@ -1,4 +1,4 @@
-package algolithms.kata;
+package algolithms.kata.num20to29;
 
 import java.util.stream.LongStream;
 

@@ -29,8 +29,4 @@ public final class Kata33 {
         // Mathematical Stream
         return IntStream.rangeClosed(left, right).map(i -> Math.sqrt(i) % 1 == 0 ? i * -1 : i).sum();
     }
-
-    static void main() {
-        System.out.println(new Kata33().solution(13, 17));
-    }
 }
