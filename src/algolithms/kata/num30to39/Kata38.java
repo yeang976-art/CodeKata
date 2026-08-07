@@ -1,7 +1,6 @@
 package algolithms.kata.num30to39;
 
 import java.util.Scanner;
-import java.util.stream.IntStream;
 
 // 직사각형 별 찍기
 public final class Kata38 {

@@ -1,10 +1,8 @@
 package algolithms.kata.num30to39;
 
 import java.util.ArrayList;
-import java.util.Arrays;
 import java.util.Comparator;
 import java.util.List;
-import java.util.stream.Collectors;
 
 // 문자열 내림차순 배치
 public final class Kata34 {
