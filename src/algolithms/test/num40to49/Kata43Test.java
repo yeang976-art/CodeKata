@@ -11,8 +11,8 @@ class Kata43Test {
     private final Kata43 no43 = new Kata43();
 
     @Test
-    @DisplayName("42번")
-    void n42() {
+    @DisplayName("43번")
+    void n43() {
 
         assertEquals(7, no43.solution("5728356537293748", "93"));
     }
