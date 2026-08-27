@@ -1,3 +1,5 @@
+// [Notice] 47번이랑 48번 서로 교체된 상태임
+
 package algolithms.kata.num40to49;
 
 import java.util.Arrays;
