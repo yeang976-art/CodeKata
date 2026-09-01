@@ -1,4 +1,4 @@
-package algolithms.test.num40to49;
+package algolithms.test.num50to59;
 
 import algolithms.kata.Kata50;
 import org.junit.jupiter.api.DisplayName;
